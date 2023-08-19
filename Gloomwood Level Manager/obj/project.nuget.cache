@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1xiVxpKN4NkacGndpl/X5RNYwsXM5elf5prnfpc6J5chHR17xIF5KqaFKpGTh8+YrEMUEf9s2nYABTqjq4Huw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\warne\\source\\repos\\Gloomwood Level Manager\\Gloomwood Level Manager\\Gloomwood Level Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\warne\\.nuget\\packages\\avalonedit\\6.0.0\\avalonedit.6.0.0.nupkg.sha512",
+    "C:\\Users\\warne\\.nuget\\packages\\jobject\\1.0.0\\jobject.1.0.0.nupkg.sha512",
+    "C:\\Users\\warne\\.nuget\\packages\\mdxaml\\1.21.0\\mdxaml.1.21.0.nupkg.sha512",
+    "C:\\Users\\warne\\.nuget\\packages\\mdxaml.plugins\\1.21.0\\mdxaml.plugins.1.21.0.nupkg.sha512",
+    "C:\\Users\\warne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

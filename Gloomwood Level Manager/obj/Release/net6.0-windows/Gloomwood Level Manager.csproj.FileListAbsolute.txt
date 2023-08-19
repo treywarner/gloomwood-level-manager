@@ -1,0 +1,34 @@
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\Gloomwood Level Manager.exe
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\Gloomwood Level Manager.dll.config
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\Gloomwood Level Manager.deps.json
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\Gloomwood Level Manager.runtimeconfig.json
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\Gloomwood Level Manager.dll
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\Gloomwood Level Manager.pdb
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\ICSharpCode.AvalonEdit.dll
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\JObject.dll
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\MdXaml.dll
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\MdXaml.Plugins.dll
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.csproj.AssemblyReference.cache
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\DownloadWindow.g.cs
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\SettingsWindow.g.cs
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\App.g.cs
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager_MarkupCompile.cache
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager_MarkupCompile.lref
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\SettingsWindow.baml
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\DownloadWindow.baml
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.g.resources
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.AssemblyInfoInputs.cache
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.AssemblyInfo.cs
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.csproj.CoreCompileInputs.cache
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.csproj.CopyComplete
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.dll
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\refint\Gloomwood Level Manager.dll
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.pdb
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\Gloomwood Level Manager.genruntimeconfig.cache
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\ref\Gloomwood Level Manager.dll
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\CreateWindow.g.cs
+C:\Users\warne\source\repos\Gloomwood Level Manager\Gloomwood Level Manager\obj\Release\net6.0-windows\CreateWindow.baml
